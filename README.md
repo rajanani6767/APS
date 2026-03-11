@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/rajanani6767/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/rajanani6767/APS/tree/master/0946-validate-stack-sequences) |
+| [1603-design-parking-system](https://github.com/rajanani6767/APS/tree/master/1603-design-parking-system) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rajanani6767/APS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/rajanani6767/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/rajanani6767/APS/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/rajanani6767/APS/tree/master/1603-design-parking-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/rajanani6767/APS/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rajanani6767/APS/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Queue
 |  |
