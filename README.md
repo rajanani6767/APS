@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rajanani6767/APS/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/rajanani6767/APS/tree/master/0496-next-greater-element-i) |
+| [0641-design-circular-deque](https://github.com/rajanani6767/APS/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/rajanani6767/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rajanani6767/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/rajanani6767/APS/tree/master/0946-validate-stack-sequences) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/rajanani6767/APS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/rajanani6767/APS/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/rajanani6767/APS/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/rajanani6767/APS/tree/master/0901-online-stock-span) |
 | [1603-design-parking-system](https://github.com/rajanani6767/APS/tree/master/1603-design-parking-system) |
 ## Monotonic Stack
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/rajanani6767/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/rajanani6767/APS/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/rajanani6767/APS/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rajanani6767/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/rajanani6767/APS/tree/master/0199-binary-tree-right-side-view) |
+## Linked List
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/rajanani6767/APS/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
