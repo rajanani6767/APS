@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/rajanani6767/APS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rajanani6767/APS/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/rajanani6767/APS/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/rajanani6767/APS/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/rajanani6767/APS/tree/master/1603-design-parking-system) |
 ## Monotonic Stack
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/rajanani6767/APS/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/rajanani6767/APS/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rajanani6767/APS/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/rajanani6767/APS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rajanani6767/APS/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/rajanani6767/APS/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rajanani6767/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
