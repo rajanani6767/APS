@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajanani6767/APS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajanani6767/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/rajanani6767/APS/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/rajanani6767/APS/tree/master/0347-top-k-frequent-elements) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rajanani6767/APS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rajanani6767/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rajanani6767/APS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/rajanani6767/APS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rajanani6767/APS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajanani6767/APS/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajanani6767/APS/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rajanani6767/APS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/rajanani6767/APS/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rajanani6767/APS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/rajanani6767/APS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rajanani6767/APS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajanani6767/APS/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/rajanani6767/APS/tree/master/0542-01-matrix) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajanani6767/APS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rajanani6767/APS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/rajanani6767/APS/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rajanani6767/APS/tree/master/1971-find-if-path-exists-in-graph) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajanani6767/APS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/rajanani6767/APS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/rajanani6767/APS/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/rajanani6767/APS/tree/master/0994-rotting-oranges) |
