@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rajanani6767/APS/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/rajanani6767/APS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rajanani6767/APS/tree/master/0641-design-circular-deque) |
+| [0695-max-area-of-island](https://github.com/rajanani6767/APS/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/rajanani6767/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rajanani6767/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/rajanani6767/APS/tree/master/0946-validate-stack-sequences) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajanani6767/APS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rajanani6767/APS/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/rajanani6767/APS/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rajanani6767/APS/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajanani6767/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rajanani6767/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rajanani6767/APS/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rajanani6767/APS/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/rajanani6767/APS/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rajanani6767/APS/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajanani6767/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rajanani6767/APS/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rajanani6767/APS/tree/master/1971-find-if-path-exists-in-graph) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rajanani6767/APS/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rajanani6767/APS/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rajanani6767/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -241,5 +245,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/rajanani6767/APS/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/rajanani6767/APS/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
