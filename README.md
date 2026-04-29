@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rajanani6767/APS/tree/master/0739-daily-temperatures) |
 | [0929-unique-email-addresses](https://github.com/rajanani6767/APS/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/rajanani6767/APS/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/rajanani6767/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/rajanani6767/APS/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/rajanani6767/APS/tree/master/0997-find-the-town-judge) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rajanani6767/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rajanani6767/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rajanani6767/APS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/rajanani6767/APS/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/rajanani6767/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajanani6767/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2418-sort-the-people](https://github.com/rajanani6767/APS/tree/master/2418-sort-the-people) |
 ## Stack
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rajanani6767/APS/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rajanani6767/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/rajanani6767/APS/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/rajanani6767/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rajanani6767/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -276,12 +279,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/rajanani6767/APS/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajanani6767/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajanani6767/APS/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rajanani6767/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/rajanani6767/APS/tree/master/1763-longest-nice-substring) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajanani6767/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajanani6767/APS/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rajanani6767/APS/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -312,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rajanani6767/APS/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/rajanani6767/APS/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/rajanani6767/APS/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/rajanani6767/APS/tree/master/1763-longest-nice-substring) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/rajanani6767/APS/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
