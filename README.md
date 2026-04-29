@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rajanani6767/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rajanani6767/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/rajanani6767/APS/tree/master/0946-validate-stack-sequences) |
+| [0997-find-the-town-judge](https://github.com/rajanani6767/APS/tree/master/0997-find-the-town-judge) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rajanani6767/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajanani6767/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2418-sort-the-people](https://github.com/rajanani6767/APS/tree/master/2418-sort-the-people) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rajanani6767/APS/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/rajanani6767/APS/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajanani6767/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/rajanani6767/APS/tree/master/0997-find-the-town-judge) |
 | [2418-sort-the-people](https://github.com/rajanani6767/APS/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/rajanani6767/APS/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rajanani6767/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
