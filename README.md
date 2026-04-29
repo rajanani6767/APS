@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rajanani6767/APS/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/rajanani6767/APS/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/rajanani6767/APS/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/rajanani6767/APS/tree/master/0621-task-scheduler) |
@@ -290,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/rajanani6767/APS/tree/master/0542-01-matrix) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rajanani6767/APS/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rajanani6767/APS/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
