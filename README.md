@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/rajanani6767/APS/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/rajanani6767/APS/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/rajanani6767/APS/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/rajanani6767/APS/tree/master/0169-majority-element) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/rajanani6767/APS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/rajanani6767/APS/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/rajanani6767/APS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/rajanani6767/APS/tree/master/0257-binary-tree-paths) |
