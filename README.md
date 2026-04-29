@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajanani6767/APS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajanani6767/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/rajanani6767/APS/tree/master/0239-sliding-window-maximum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rajanani6767/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/rajanani6767/APS/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rajanani6767/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/rajanani6767/APS/tree/master/0496-next-greater-element-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rajanani6767/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rajanani6767/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Tree
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajanani6767/APS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajanani6767/APS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rajanani6767/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0374-guess-number-higher-or-lower](https://github.com/rajanani6767/APS/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajanani6767/APS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rajanani6767/APS/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajanani6767/APS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rajanani6767/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/rajanani6767/APS/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/rajanani6767/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/rajanani6767/APS/tree/master/1763-longest-nice-substring) |
@@ -331,4 +335,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/rajanani6767/APS/tree/master/0973-k-closest-points-to-origin) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rajanani6767/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rajanani6767/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rajanani6767/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
