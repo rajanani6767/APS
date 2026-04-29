@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajanani6767/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/rajanani6767/APS/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/rajanani6767/APS/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/rajanani6767/APS/tree/master/0621-task-scheduler) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajanani6767/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/rajanani6767/APS/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajanani6767/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2418-sort-the-people](https://github.com/rajanani6767/APS/tree/master/2418-sort-the-people) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajanani6767/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/rajanani6767/APS/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/rajanani6767/APS/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rajanani6767/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -200,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajanani6767/APS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajanani6767/APS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajanani6767/APS/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajanani6767/APS/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
